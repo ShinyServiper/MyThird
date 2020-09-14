@@ -64,5 +64,5 @@ LimeChain Website [LimeChain Website](https://limechain.tech),
 LimeChain Blog    [LimeChain Blog](https://limechain.tech/blog/),
 LimePay [LimePay](https://limepay.io),
 Etherlime [Etherlime](https://etherlime.gitbook.io/etherlime/),
-Mirror Review Interview with CEO Nick Todorov[](https://www.mirrorreview.com/limechain-building-radical-blockchain-solutions-for-startups-and-corporate-clients/)
+[Mirror Review Interview with CEO Nick Todorov](https://www.mirrorreview.com/limechain-building-radical-blockchain-solutions-for-startups-and-corporate-clients/)
 Software as a Service, also know as SaaS
