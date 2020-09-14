@@ -3,11 +3,13 @@
 ## Overview and Origin
 
 
-<p>Belonging to the Blockchain and Cryptocurrencies domain of the financial industry, LimeChain was incorporated in 2017 in Sofia, Bulgaria.</p>
+<p>Belonging to the Blockchain and Cryptocurrencies domain of the financial industry, LimeChain was incorporated in 2017 in Sofia, Bulgaria. the primary focus of this company is on public and private blockchain development and smart contract development, while offering additional services such as consulting and development of initial coin offerings(ICOs) and decentralized applications(dApps). The founder and current CEO of the company is ***Nick Todorov***.</p>
 
-* Who are the founders of the company?
-The company was founder by ***Nick Todorov**, who is currently the CEO.
+
+
 * How did the idea for the company (or project) come about?
+
+
 
 * How is the company funded? How much funding have they received?
 *** Etherenum Community Fund and the ETHPrize ***
