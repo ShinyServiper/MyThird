@@ -1,14 +1,9 @@
-# INTRODUCING, THE SUBLIME LIMECHAIN
+# SUBLIME LIMECHAIN
 
 ## Overview and Origin
-
-
-<p>Belonging to the Blockchain and Cryptocurrencies domain of the financial industry, LimeChain was incorporated in 2017 in Sofia, Bulgaria. the primary focus of this company is on public and private blockchain development and smart contract development, while offering additional services such as consulting and development of initial coin offerings(ICOs) and decentralized applications(dApps). The founder and current CEO of the company is ** Nick Todorov **.</p>
-
-
+<p>Belonging to the Blockchain and Cryptocurrencies domain of the financial industry, LimeChain was incorporated in 2017 in Sofia, Bulgaria. the primary focus of this company is on public and private blockchain development and smart contract development, while offering additional services such as consulting and development of initial coin offerings(ICOs) and decentralized applications(dApps). The founder and current CEO of the company is ** Nick Todorov **. The primary goal of the company was to initiate the development of blockchain both locally and internationally; specialize in building blockchain solutions for startups and corporate institutions.</p>
 
 * How did the idea for the company (or project) come about?
-
 
 
 * How is the company funded? How much funding have they received?
@@ -21,14 +16,12 @@
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-*** Aim was to initiate the development of blockchain both locally and internationally; specialize in building blockchain solutions for startups and corporate business(institutions).***
+
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 *** They are currently using LimePay and Etherlime, which are products that set them apart from other companies. ***
-
-
-
 
 
 ## Landscape:
@@ -46,8 +39,6 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 ## Results
-
-
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
@@ -55,7 +46,6 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 ## Recommendations
-
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 As a result of the COVID crisis, formal education has been called to make a dynamic change. Introducing blockchain applications into the world of education would be highly beneficial
 
