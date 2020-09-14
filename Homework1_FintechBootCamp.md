@@ -26,24 +26,15 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
-***The company belongs to the Blockchain and Cryptocurrencies domain of the financial industry***
-
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-
-* What are the other major companies in this domain?
-*** Some other mentionable companies that are also in this domain of the financial industry are ScienceSoft, Prolifics, Ripple Labs Inc., LeewayHertz, and Blockchangers ***
 <p> The company belongs to the Blockchain and Cryptocurrencies domain of the financial industry. Some other mentionable companies that are also in this domain of the financial industry are ScienceSoft, Prolifics, Ripple Labs Inc., LeewayHertz, and Blockchangers. LimeChain is known for LimePay and Etherlime. LimePay allows individuals and companies to execute transactions for dApps with fiat money, as opposed to using a crypto wallet. Etherlime is an open source tool for blockchain developers; for which they received funding by the Etherum Community Fund and the ETHPrize.</p>
-
-
 
 ## Results
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
 *** Named one of the top companies in the industry ***
-
 
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
