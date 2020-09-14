@@ -56,13 +56,10 @@ As a result of the COVID crisis, formal education has been called to make a dyna
 * Why are these technologies appropriate for your solution?
 
 
-
-
 ## Addenum
-
-LimeChain Website [LimeChain Website](https://limechain.tech),
-LimeChain Blog    [LimeChain Blog](https://limechain.tech/blog/),
-LimePay [LimePay](https://limepay.io),
-Etherlime [Etherlime](https://etherlime.gitbook.io/etherlime/),
+[LimeChain Website](https://limechain.tech),
+[LimeChain Blog](https://limechain.tech/blog/),
+[LimePay](https://limepay.io),
+[Etherlime](https://etherlime.gitbook.io/etherlime/),
 [Mirror Review Interview with CEO Nick Todorov](https://www.mirrorreview.com/limechain-building-radical-blockchain-solutions-for-startups-and-corporate-clients/)
 Software as a Service, also know as SaaS
