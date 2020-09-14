@@ -1,15 +1,12 @@
-# INTRODUCING THE SUBLIME LIMECHAIN
+# INTRODUCING, THE SUBLIME LIMECHAIN
 
 ## Overview and Origin
 
-* Name of company
-*** LimeChain ***
 
-* When was the company incorporated?
-***The company was incorporated in 2017 in Sofia, Bulgaria***
+<p>Belonging to the Blockchain and Cryptocurrencies domain of the financial industry, LimeChain was incorporated in 2017 in Sofia, Bulgaria.</p>
 
 * Who are the founders of the company?
-***The company was founder by Nick Todorov, who is currently the CEO, and co-founder Vladislov Ivanov, who is currenly the Head of Development.***
+The company was founder by ***Nick Todorov**, who is currently the CEO.
 * How did the idea for the company (or project) come about?
 
 * How is the company funded? How much funding have they received?
@@ -25,7 +22,11 @@ What solution does this company offer that their competitors do not or cannot of
 *** Aim was to initiate the development of blockchain both locally and internationally; specialize in building blockchain solutions for startups and corporate business(institutions).***
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
 *** They are currently using LimePay and Etherlime, which are products that set them apart from other companies. ***
+
+
+
 
 
 ## Landscape:
@@ -44,8 +45,6 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Results
 
-* What has been the business impact of this company so far?
-*** LimePay and Etherlime. LimePay allows individuals and companies to execute transactions for dApps with fiat money, as opposed to using a crypto wallet. Etherlime is an open source tool for blockchain developers; for which they received funding by the Etherum Community Fund and the ETHPrize. ***
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -69,9 +68,9 @@ As a result of the COVID crisis, formal education has been called to make a dyna
 
 ## Addenum
 
-LimeChain Website [LimeChain Website](https://limechain.tech)
-LimeChain Blog    [LimeChain Blog](https://limechain.tech/blog/)
-LimePay [LimePay](https://limepay.io)
-Etherlime [Etherlime](https://etherlime.gitbook.io/etherlime/)
+LimeChain Website [LimeChain Website](https://limechain.tech),
+LimeChain Blog    [LimeChain Blog](https://limechain.tech/blog/),
+LimePay [LimePay](https://limepay.io),
+Etherlime [Etherlime](https://etherlime.gitbook.io/etherlime/),
 Mirror Review Interview with CEO Nick Todorov[](https://www.mirrorreview.com/limechain-building-radical-blockchain-solutions-for-startups-and-corporate-clients/)
 Software as a Service, also know as SaaS
