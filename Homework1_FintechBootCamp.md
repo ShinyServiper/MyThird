@@ -37,7 +37,8 @@ What solution does this company offer that their competitors do not or cannot of
 *** Named one of the top companies in the industry ***
 
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) A recent article written by Zhivko Todorv an employee of LimeChain in Business Development, made suggestions for potential blockchain applications to aid in the COVID-19 crisis. One of the app
+
 As a result of the COVID crisis, formal education has been called to make a dynamic change. Introducing blockchain applications into the world of education would be highly beneficial
 
 * Why do you think that offering this product or service would benefit the company?
@@ -53,4 +54,3 @@ As a result of the COVID crisis, formal education has been called to make a dyna
 [LimePay](https://limepay.io),
 [Etherlime](https://etherlime.gitbook.io/etherlime/),
 [Mirror Review Interview with CEO Nick Todorov](https://www.mirrorreview.com/limechain-building-radical-blockchain-solutions-for-startups-and-corporate-clients/)
-Software as a Service, also know as SaaS
