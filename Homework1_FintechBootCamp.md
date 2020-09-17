@@ -10,7 +10,7 @@
 <p> The company belongs to the Blockchain and Cryptocurrencies domain of the financial industry. Some other mentionable companies that are also in this domain of the financial industry are ScienceSoft, Prolifics, Ripple Labs Inc., LeewayHertz, and Blockchangers. LimeChain is known for LimePay and Etherlime. LimePay allows individuals and companies to execute transactions for dApps with fiat money, as opposed to using a crypto wallet. Etherlime is an open source tool for blockchain developers; for which they received funding by the Etherum Community Fund and the ETHPrize.</p>
 
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) A recent article written by Zhivko Todorv an employee of LimeChain in Business Development, made suggestions for potential blockchain applications to aid in the COVID-19 crisis. One of the app
+A recent article written by Zhivko Todorv an employee of LimeChain in Business Development, made suggestions for potential blockchain applications to aid in the COVID-19 crisis. One of the app
 
 As a result of the COVID crisis, formal education has been called to make a dynamic change. Introducing blockchain applications into the world of education would be highly beneficial
 
