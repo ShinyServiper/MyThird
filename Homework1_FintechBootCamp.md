@@ -11,19 +11,6 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-***Focuses on public and private blockchain development and smart contract development, as well as ICOs and development of dApps. ***
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-*** They are currently using LimePay and Etherlime, which are products that set them apart from other companies. ***
-
-
 ## Landscape:
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
@@ -33,20 +20,10 @@ What solution does this company offer that their competitors do not or cannot of
 ## Results
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
-*** Named one of the top companies in the industry ***
-
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) A recent article written by Zhivko Todorv an employee of LimeChain in Business Development, made suggestions for potential blockchain applications to aid in the COVID-19 crisis. One of the app
 
 As a result of the COVID crisis, formal education has been called to make a dynamic change. Introducing blockchain applications into the world of education would be highly beneficial
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
 
 ## Addenum
 [LimeChain Website](https://limechain.tech),
