@@ -1,4 +1,5 @@
 # SUBLIME LIMECHAIN
+_Written by: Lee Redfearn_
 
 ## Overview and Origin
 <p>Belonging to the Blockchain and Cryptocurrencies domain of the financial industry, LimeChain was incorporated in 2017 in Sofia, Bulgaria. the primary focus of this company is on public and private blockchain development and smart contract development, while offering additional services such as consulting, development of initial coin offerings(ICOs) and decentralized applications(dApps). The founder and current CEO of the company is ** Nick Todorov **. The primary goal of the company was to initiate the development of blockchain both locally and internationally; specialize in building blockchain solutions for startups and corporate institutions.</p>
