@@ -1,4 +1,4 @@
-# MyThird
+# Lee Redfearn's Third Repository
 This is the Third sample repository
 Hello!!!
 # Header 1
